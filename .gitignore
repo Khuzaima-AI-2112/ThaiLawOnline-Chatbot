@@ -11,6 +11,9 @@ data/
 .vscode/
 .idea/
 
+# Gemini/Antigravity
+.gemini/
+
 # OS
 .DS_Store
 Thumbs.db
